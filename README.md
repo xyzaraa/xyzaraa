@@ -5,8 +5,8 @@ I'm a Data Scientist Enthusiast and if you want to discuss, don't hesitate to ta
 
 * 🌍  I'm based in Malang, East Java
 * ✉️  You can contact me at [kiarazzahraaa@gmail.com](mailto:kiarazzahraaa@gmail.com)
-* 🧠  I'm learning Machine Learning
-* ⚡  I'm playing Valorant every night cause i'm not a really programmer 🤐😇
+* 🧠  I'm learning Machine Learning, Data Analyze and everything about Data Science <3
+* ⚡  I play Valorant every night because being a gang-gang programmer isn't all we do. 🤐😇
 
 ### Skills
 
