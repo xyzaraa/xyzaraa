@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kiarazzahraaa@gmail.com**
 
-- 📄 Know about [my experiences] (https://kiaraazzahra.web.id/cv/CV_KIARA%20AZZAHRAA.pdf)
+- 📄 Know about [my experiences](https://kiaraazzahra.web.id/cv/CV_KIARA%20AZZAHRAA.pdf)
 
 - ⚡ I play Valorant every night because being a gang-gang programmer isn't all we do 🤐😇
 
