@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Zara and I'm a Data Scientist</h2>
+<h2 align="left">Hi 👋! My name is Zara and I'm a ML Engineer</h2>
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZnNTVoNmM5Y2I1bmdob2VtbWU4bXF2aDBjMnVtOHZkYmFyMXlraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQGsJ5MNmFlfWiWGbN/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z4Y3gzeGhhaXY5OWl5eXdzbjQ5Y3Z2MTg1bmRwN3kwbjl6NzZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjZEBiKWmysecVnEAt/giphy.gif"  />
 
 ###
 
-<p align="left">  Code works. Model runs. Wonyoung stays 💗💅</p>
+<p align="left">  we can't spell love without v </p>
 
 ###
 
